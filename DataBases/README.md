@@ -5,6 +5,7 @@ In this folder all the materials related to the Data Bases class in the first qu
 ##Content
 
 "Tabla ejemplo BBD ciclos FP.pdf" -> example of a database table for vocational students
+
 "Base de datos ciclos FP.pdf" -> Document with the structure of the database for vocational students
 
 
