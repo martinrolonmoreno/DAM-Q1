@@ -17,9 +17,10 @@ In this exercise, a Scanner object was added to read three numbers from the cons
 In this exercise, we practiced using the Math class and the PI constant to calcute the area of a circle based on a given radius: [Ejercicio2.java](Ejercicio2.java)
 
 ### Ejercicio3.java
-In this exercise, we learned how to swap the values of two variables y using a third one to hold temporary data during the process [Ejercicio3.java](Ejercicio3.java)
+In this exercise, we learned how to swap the values of two variables y using a third one to hold temporary data during the process: [Ejercicio3.java](Ejercicio3.java)
 
 ### Ejercicio4.java
+In this exercise, we practiced performing various operations with two given values and were introduced  to basic flow-control structures (if and else) for the first time: [Ejercicio4.java](Ejercicio4.java)
 
 ### Ejercicio5.java
 
