@@ -1,4 +1,4 @@
-## Programas
+## Programs
 This folder contains all the Java/HTML/CSS/JavaScript programs developed during the first quarter of the Programming subject, covering the main introductory topics
 
 
