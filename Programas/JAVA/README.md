@@ -39,3 +39,30 @@ In this exercise we learned how to use the modulo operator to convert a given nu
 
 Esta carpeta contiene todos los proyectos y programas en Java desarrollados durante el primer cuatrimestre de la asignatura de Programación. Cada arhcivo incluye una breve descripción del 
 problema a resolver y comentarios en el código que explican lo que se ha hecho paso a paso
+
+### Ejercicio1.java
+En este ejercicio practicamos el uso de variables y la realización de operacion entre estas, con el objetivo de calcular la media de 3 números: [Ejercicio1.java](Ejercicio1.java)
+
+### Ejercicio1Extendido.java
+En este ejercicio extendido, un escáner fue añadido para leer los 3 números de la consola y calcular su promedio, mejorando el Ejercicio1.java mediane el uso del paquete java.util, que incluía la clase Scanner:
+[Ejercicio1Extendido.java](Ejercicio1Extendido.java)
+
+### Ejercicio2.java
+En este ejercicio practicamos el uso de la clase Math y la constante PI para calcular el área de un círculo conociendo su radio: [Ejercicio2.java](Ejercicio2.java)
+
+### Ejercicio3.java
+En este ejercicio aprendimos a intercambiar de valor entre dos variables, utilizando una tercera variable, para almacenar datos temporales durante el proceso: [Ejercicio3.java](Ejercicio3.java)
+
+### Ejercicio4.java
+En este ejercicio practicamos diferentes operaciones con 2 valores determinados, introduciendo el concepto de estructuras de control de flujo (if y else) por primera vez: [Ejercicio4.java](Ejercicio4.java)
+
+### Ejercicio5.java
+En este ejercicio trabajamos con variables booleanas y practicamos con las estructuras de control de flujo if, else if y else, así como con el operador lógico && (y además): [Ejercicio5.java](Ejercicio5.java)
+
+### Ejercicio6.java
+In this exercise we practiced calculating the permiter and area of a circle based on a given radius: [Ejercicio6.java](Ejercicio6.java)
+
+### Ejercicio7.java
+In this exercise we learned how to use the modulo operator to convert a given number of seconds into hours, minutes, and seconds [Ejercicio7.java](Ejercicio7.java)
+
+
