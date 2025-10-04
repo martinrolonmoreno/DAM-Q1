@@ -1,5 +1,5 @@
 
-# Flowcharts
+# Flowcharts - DAM Q1
 
 This folder includes all the flowcharts from the first quarter of the programming subject
 
@@ -20,7 +20,7 @@ A flowchart that checks whether a given number is even or odd and indicates the 
 
 ----------
 
-# Diagramas de flujo
+# Diagramas de flujo - DAM Q1
 
 Esta carpeta contiene todos los diagramas de flujo realizados durante el primer cuatrimestre en la asignatura de programación
 
