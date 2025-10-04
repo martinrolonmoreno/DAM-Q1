@@ -23,6 +23,7 @@ In this exercise, we learned how to swap the values of two variables y using a t
 In this exercise, we practiced performing various operations with two given values and were introduced  to basic flow-control structures (if and else) for the first time: [Ejercicio4.java](Ejercicio4.java)
 
 ### Ejercicio5.java
+In this exercise, we worked with boolean variables and practiced flow-control structures (if, else if and else) along with the logical operator && (and): [Ejercicio5.java](Ejercicio5.java)
 
 ### Ejercicio6.java
 
