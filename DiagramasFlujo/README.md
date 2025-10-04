@@ -18,21 +18,8 @@ A flowchart that checks whether a given number is even or odd and indicates the 
 [numeroImparPar.pdf](numeroImparPar.pdf)
 
 
-
-=======
-##Diagramas de flujo
-
-This folder includes all the flowcharts from the first quarter of the programming subject
-
-#Content
-
-"Tarea01-Algoritmos.zip" -> This folder contains 3 exercises on flowcharts thay apply basic algorithmic concepts and standard flowchart symbols
->>>>>>> dc2020e (Commit inicial de toda la carpeta Repositorios)
-
-
 ----------
 
-<<<<<<< HEAD
 # Diagramas de flujo
 
 Esta carpeta contiene todos los diagramas de flujo realizados durante el primer cuatrimestre en la asignatura de programación
@@ -50,14 +37,5 @@ Un diagrama de flujo que determina el número más grande de 2 introducidos, com
 ### 3. numeroImparPar.pdf
 Un diagrama de flujo que comprueba si un número es par o impar e indica el resultado:
 [numeroImparPar.pdf](numeroImparPar.pdf)
-=======
-##Diagramas de flujo
-
-Esta carpeta contiene todos los diagramas de flujo realizados durante el primer cuatrimestre en la asignatura de programación
-
-#Contenido
-
-"Tarea01-Algoritmos.zip" -> Este archivo contiene 3 ejercicios de diagramas de flujo utilizando conceptos básicos de algoritmos y simbolos basicos de diagramas de flujo
->>>>>>> dc2020e (Commit inicial de toda la carpeta Repositorios)
 
 
