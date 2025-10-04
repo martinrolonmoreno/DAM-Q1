@@ -13,9 +13,19 @@ In this exercise we practiced using variables and performing operations between 
 In this exercise, a Scanner object was added to read three numbers from the console and calculate their average, improving Ejercicio1.java by using java.util.Scanner: 
 [Ejercicio1Extendido.java](Ejercicio1Extendido.java)
 
+### Ejercicio2.java
+In this exercise, we practiced using the Math class and the PI constant to calcute the area of a circle based on a given radius: [Ejercicio2.java](Ejercicio2.java)
 
+### Ejercicio3.java
+In this exercise, 
 
+### Ejercicio4.java
 
+### Ejercicio5.java
+
+### Ejercicio6.java
+
+### Ejercicio7.java
 
 ------------
 
