@@ -60,9 +60,13 @@ En este ejercicio practicamos diferentes operaciones con 2 valores determinados,
 En este ejercicio trabajamos con variables booleanas y practicamos con las estructuras de control de flujo if, else if y else, así como con el operador lógico && (y además): [Ejercicio5.java](Ejercicio5.java)
 
 ### Ejercicio6.java
-In this exercise we practiced calculating the permiter and area of a circle based on a given radius: [Ejercicio6.java](Ejercicio6.java)
+En este ejercicio practicamos el cálculo del perímetro y el área de un círculo conociendo su radio: [Ejercicio6.java](Ejercicio6.java)
 
 ### Ejercicio7.java
-In this exercise we learned how to use the modulo operator to convert a given number of seconds into hours, minutes, and seconds [Ejercicio7.java](Ejercicio7.java)
+En este ejercicio aprendimos a usar el operador de módulo para convertir una cierta cantidad de segundos en horas, minutos y segundos: [Ejercicio7.java](Ejercicio7.java)
+
+
+
+
 
 
