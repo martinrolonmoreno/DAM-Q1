@@ -11,11 +11,11 @@ public class Ejercicio1Extendido {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		Scanner escaner1 = new Scanner(System.in); /*Creamos un escaner utilizando la clase Scanner (instanciamos la clase)*/
+		Scanner escaner1 = new Scanner(System.in); /*Creamos un escáner utilizando la clase Scanner (instanciamos la clase)*/
 		
 		System.out.println("Introduce la primera nota"); /*Pedimos al usuario por consola que introduzca una nota*/
 		
-		double num1 = escaner1.nextDouble(); /*El escaner lee lo que hay en consola hasta el último espacio en blanco (método nextDouble), y lo almacena en la 
+		double num1 = escaner1.nextDouble(); /*El escáner lee lo que hay en consola hasta el último espacio en blanco (método nextDouble), y lo almacena en la 
 		variable num1*/
 		
 		System.out.println("Introduce la segunda nota"); /*El proceso se repite para los otros 2 números*/
