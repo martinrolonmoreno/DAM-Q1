@@ -23,12 +23,12 @@ public class Ejercicio5 {
 		boolean jasp;
 		
 		
-		if(edad<=28 & nivel_de_estudios>3) { /*Primera condición: si la edad es menor o igual que 28 y además (operador &) el nivel de estudios es mayor a 3, 
+		if(edad<=28 && nivel_de_estudios>3) { /*Primera condición: si la edad es menor o igual que 28 y además (operador &) el nivel de estudios es mayor a 3, 
 		almacenar true en variable booleana jasp*/
 			jasp=true;
 		}
 		
-		else if(edad<30 & ingresos>28000){ /*Si la primera condición no se cumple, el programa omite la condición anterior y pasa a esta: si la edad es menor 
+		else if(edad<30 && ingresos>28000){ /*Si la primera condición no se cumple, el programa omite la condición anterior y pasa a esta: si la edad es menor 
 		a 30 y además los ingresos son mayores a 28000, almacenar true en la variable booleana jasp*/
 			jasp=true;
 		}
