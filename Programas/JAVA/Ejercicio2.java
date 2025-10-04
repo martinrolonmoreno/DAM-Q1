@@ -11,12 +11,12 @@ public class Ejercicio2 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		double radio=8; /*asignamos un valor a la variable radio*/
+		double radio=8; /*Asignamos un valor a la variable radio*/
 		
 		double areaCirculo=(Math.PI)*(Math.pow(radio, 2)); /*Calculamos el área de un círculo (PI*radio^2) utilizando la clase Math.PI (es static, por eso 
 		debemos nombrar la clase) y Math.pow, que calcula la potencia de un número pasándole 2 parámetros: la base (que es el radio) y el exponente (2)*/
 		
-		double areaCirculoredondeada=Math.round(areaCirculo); /*con el método round de la clase Math redondeamos el número*/
+		double areaCirculoredondeada=Math.round(areaCirculo); /*Con el método round de la clase Math redondeamos el número*/
 		
 		System.out.println(areaCirculoredondeada); /*Imprimimos en consola el área del círculo*/
 		
