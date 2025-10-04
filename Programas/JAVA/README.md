@@ -29,6 +29,7 @@ In this exercise, we worked with boolean variables and practiced flow-control st
 In this exercise we practiced calculating the permiter and area of a circle based on a given radius: [Ejercicio6.java](Ejercicio6.java)
 
 ### Ejercicio7.java
+In this exercise we learned how to use the modulo operator to convert a given number of seconds into hours, minutes, and seconds [Ejercicio7.java](Ejercicio7.java)
 
 ------------
 
