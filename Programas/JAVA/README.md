@@ -26,7 +26,7 @@ In this exercise, we practiced performing various operations with two given valu
 In this exercise, we worked with boolean variables and practiced flow-control structures (if, else if and else) along with the logical operator && (and): [Ejercicio5.java](Ejercicio5.java)
 
 ### Ejercicio6.java
-In this exercise we practiced calculating the permiter and area of a circle based on a given radius
+In this exercise we practiced calculating the permiter and area of a circle based on a given radius: [Ejercicio6.java](Ejercicio6.java)
 
 ### Ejercicio7.java
 
