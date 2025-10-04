@@ -1,4 +1,4 @@
-# JAVA
+# JAVA Projects - DAM Q1
 
 ## Content
 
@@ -33,7 +33,7 @@ In this exercise we learned how to use the modulo operator to convert a given nu
 
 ------------
 
-# JAVA
+# Proyectos JAVA - DAM Q1
 
 ## Contenido
 
