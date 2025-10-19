@@ -22,7 +22,17 @@ In this HTML exercise, we were given an image with text from a website, and our 
 
 ### 4. ejerciciolm
 
-In this HTML exercise, we practiced the use of internal and external linked labels in html, the unordered and ordered list as well as what type of atributes a label can have, and lastly the use of id in label <section> to reference it from other html docs which will later be used to apply css 
+This exercise focuses on practicing fundamental HTML concepts:
+
+Creating internal and external links.
+
+Building unordered and ordered lists.
+
+Exploring different attributes of HTML elements, especially for labels.
+
+Using IDs in sections to reference them from other HTML documents, which can later be used for applying CSS styling.
+
+Through these exercises, we reinforced the practical use of HTML structure, linking, and referencing elements across documents.
 
 
 
