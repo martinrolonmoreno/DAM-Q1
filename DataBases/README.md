@@ -15,6 +15,11 @@ Document with the structure of the database for vocational students
 First entity-relationship (ER) model documenting how employees, departments and projects are connected using relational database diagrams, with a focus on learning cardinality concepts: 
 [Ejercicio1-UD2-BBDD.pdf](Ejercicio1-UD2-BBDD.pdf)
 
+## EJERCICIOS UD2-01
+
+This set of exercises represents our first approach to relational database design.
+Through a series of entity–relationship diagrams, we explore how to transform basic ER models into more complex relational schemas, focusing on understanding cardinality, relationships, and attribute behavior in order to design more complete databases. [EJERCICIOS UD2-01](./EJERCICIOS UD2-01/)
+
 
 -----------
 
@@ -33,3 +38,8 @@ Documento con plantilla excel que incluye la estructura de la base de datos de e
 ### Ejercicio1-UD2-BBDD.pdf
 
 Primer modelo entidad-relacional de prueba documentando como empleados, departamentos y proyectos se concectan utilizando diagramas de bases de datos relacionales, con un enfoque en aprender los conceptos de cardinalidad: [Ejercicio1-UD2-BBDD.pdf](Ejercicio1-UD2-BBDD.pdf)
+
+## EJERCICIOS UD2-01
+
+Esta práctica constituye una primera aproximación al diseño de bases de datos relacionales.
+A través de varios diagramas entidad–relación, aprendemos a transformar modelos básicos en esquemas relacionales más complejos, comprendiendo mejor la cardinalidad, las relaciones y los atributos que intervienen en el proceso de modelado.
