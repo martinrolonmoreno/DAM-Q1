@@ -32,7 +32,7 @@ This exercise focuses on practicing fundamental HTML concepts:
 
 -Using IDs in sections to reference them from other HTML documents, which can later be used for applying CSS styling.
 
-Through these exercises, we reinforced the practical use of HTML structure, linking, and referencing elements across documents.
+Through these exercises, we reinforced the practical use of HTML structure, linking, and referencing elements across documents:
 [ejerciciolm](./ejerciciolm/)
 
 
@@ -73,7 +73,7 @@ Este ejercicio se centra en practicar conceptos fundamentales de HTML:
 
 -Usar IDs en secciones (<section>) para poder referenciarlas desde otros documentos HTML, lo cual será útil más adelante para aplicar estilos con CSS.
 
-Con estos ejercicios, reforzamos el uso práctico de la estructura HTML, los enlaces y la referencia entre elementos en distintos documentos.
+Con estos ejercicios, reforzamos el uso práctico de la estructura HTML, los enlaces y la referencia entre elementos en distintos documentos:
 [ejerciciolm](./ejerciciolm/)
 
 
