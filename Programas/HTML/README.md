@@ -61,4 +61,19 @@ En este ejercicio de HTML, nos dan una imagen de un texto sacado de una página 
 de etiquetas, para dar estructura y resaltar diferentes partes del texto
 [copywriting_code_exercise.html](copywriting_code_exercise.html)
 
+### 4. ejerciciolm
+
+Este ejercicio se centra en practicar conceptos fundamentales de HTML:
+
+-Crear enlaces internos y externos.
+
+-Construir listas desordenadas y ordenadas.
+
+-Explorar diferentes atributos de los elementos HTML, especialmente de las etiquetas <label>.
+
+-Usar IDs en secciones (<section>) para poder referenciarlas desde otros documentos HTML, lo cual será útil más adelante para aplicar estilos con CSS.
+
+Con estos ejercicios, reforzamos el uso práctico de la estructura HTML, los enlaces y la referencia entre elementos en distintos documentos.
+[ejerciciolm](./ejerciciolm/)
+
 
