@@ -24,15 +24,16 @@ In this HTML exercise, we were given an image with text from a website, and our 
 
 This exercise focuses on practicing fundamental HTML concepts:
 
-Creating internal and external links.
+-Creating internal and external links.
 
-Building unordered and ordered lists.
+-Building unordered and ordered lists.
 
-Exploring different attributes of HTML elements, especially for labels.
+-Exploring different attributes of HTML elements, especially for labels.
 
-Using IDs in sections to reference them from other HTML documents, which can later be used for applying CSS styling.
+-Using IDs in sections to reference them from other HTML documents, which can later be used for applying CSS styling.
 
 Through these exercises, we reinforced the practical use of HTML structure, linking, and referencing elements across documents.
+[ejerciciolm](./ejerciciolm/)
 
 
 
