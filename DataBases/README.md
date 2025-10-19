@@ -42,4 +42,4 @@ Primer modelo entidad-relacional de prueba documentando como empleados, departam
 ## EJERCICIOS UD2-01
 
 Esta práctica constituye una primera aproximación al diseño de bases de datos relacionales.
-A través de varios diagramas entidad–relación, aprendemos a transformar modelos básicos en esquemas relacionales más complejos, comprendiendo mejor la cardinalidad, las relaciones y los atributos que intervienen en el proceso de modelado.
+A través de varios diagramas entidad–relación, aprendemos a transformar modelos básicos en esquemas relacionales más complejos, comprendiendo mejor la cardinalidad, las relaciones y los atributos que intervienen en el proceso de modelado. [EJERCICIOS UD2-01](./EJERCICIOS%20UD2-01/)
