@@ -18,7 +18,7 @@ First entity-relationship (ER) model documenting how employees, departments and 
 ## EJERCICIOS UD2-01
 
 This set of exercises represents our first approach to relational database design.
-Through a series of entity–relationship diagrams, we explore how to transform basic ER models into more complex relational schemas, focusing on understanding cardinality, relationships, and attribute behavior in order to design more complete databases. [EJERCICIOS UD2-01](./EJERCICIOS UD2-01/)
+Through a series of entity–relationship diagrams, we explore how to transform basic ER models into more complex relational schemas, focusing on understanding cardinality, relationships, and attribute behavior in order to design more complete databases. [EJERCICIOS UD2-01](./EJERCICIOS%20UD2-01/)
 
 
 -----------
