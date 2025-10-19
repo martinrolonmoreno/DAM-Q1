@@ -20,6 +20,10 @@ In this HTML exercise, we were given an HTML file with several syntax mistakes, 
 In this HTML exercise, we were given an image with text from a website, and our task was to recreate the text in HTML, replicating its style and formatting using multiple tags to structure and highlight different parts of the text:
 [copywriting_code_exercise.html](copywriting_code_exercise.html)
 
+### 4. ejerciciolm
+
+In this HTML exercise, we practiced the use of internal and external linked labels in html, the unordered and ordered list as well as what type of atributes a label can have, and lastly the use of id in label <section> to reference it from other html docs which will later be used to apply css 
+
 
 
 
