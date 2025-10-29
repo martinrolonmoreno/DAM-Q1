@@ -20,6 +20,14 @@ First entity-relationship (ER) model documenting how employees, departments and 
 This set of exercises represents our first approach to relational database design.
 Through a series of entity–relationship diagrams, we explore how to transform basic ER models into more complex relational schemas, focusing on understanding cardinality, relationships, and attribute behavior in order to design more complete databases. [EJERCICIOS UD2-01](./EJERCICIOS%20UD2-01/)
 
+## EJERCICIOS UD2-02
+This set of exercises represents deeper acquisition of knowledge in entity-relationship and relational database design, introducing concepts such as optional attributes, primary and candidate keys, and ternary relationships between entities. Each excersises includes:
+
+- ER diagrams
+- Cardinality of each relationship between entities
+- Relationship schemes
+- Modification and deletion type
+
 
 -----------
 
@@ -43,3 +51,12 @@ Primer modelo entidad-relacional de prueba documentando como empleados, departam
 
 Esta práctica constituye una primera aproximación al diseño de bases de datos relacionales.
 A través de varios diagramas entidad–relación, aprendemos a transformar modelos básicos en esquemas relacionales más complejos, comprendiendo mejor la cardinalidad, las relaciones y los atributos que intervienen en el proceso de modelado. [EJERCICIOS UD2-01](./EJERCICIOS%20UD2-01/)
+
+## EJERCICIOS UD2-02
+Esta carpeta contiene un conjunto de ejercicios avanzados sobre diseño de bases de datos, utilizando modelos Entidad-Relación (ER) y relacionales.  
+Los ejercicios están enfocados en consolidar conocimientos más profundos sobre modelado, incluyendo:
+
+- Atributos opcionales
+- Claves primarias, candidatas y secundarias
+- Combinación de claves primarias en relaciones
+
