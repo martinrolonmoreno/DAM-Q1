@@ -28,6 +28,8 @@ This set of exercises represents deeper acquisition of knowledge in entity-relat
 - Relationship schemes
 - Modification and deletion type
 
+[EJERCICIOS UD2-02](./EJERCICIOS%20UD2-02/)
+
 
 -----------
 
