@@ -3,7 +3,7 @@ This folder contains all the Java/HTML/CSS/JavaScript programs developed during 
 
 ### TareaEstructurasControl
 In this set of exercises, flow-control structures are practised through conditional such as if-else and switch statements.
-The goal is to strengthen understanding of decision-making logic in Java. [./TareaEstructurasControl](./TareaEstructurasControl)
+The goal is to strengthen understanding of decision-making logic in Java. [./TareaEstructurasControl/](./TareaEstructurasControl/)
 
 
 -------
