@@ -31,6 +31,10 @@ In this exercise we practiced calculating the permiter and area of a circle base
 ### Ejercicio7.java
 In this exercise we learned how to use the modulo operator to convert a given number of seconds into hours, minutes, and seconds [Ejercicio7.java](Ejercicio7.java)
 
+### TareaEstructurasControl
+In this set of exercises, flow-control structures are practised through conditional such as if-else and switch statements.
+The goal is to strengthen understanding of decision-making logic in Java. [TareaEstructurasControl](./JAVA/TareaEstructurasControl/)
+
 ------------
 
 # Proyectos JAVA - DAM Q1
@@ -64,6 +68,10 @@ En este ejercicio practicamos el cálculo del perímetro y el área de un círcu
 
 ### Ejercicio7.java
 En este ejercicio aprendimos a usar el operador de módulo para convertir una cierta cantidad de segundos en horas, minutos y segundos: [Ejercicio7.java](Ejercicio7.java)
+
+### TareaEstructurasControl
+En esta serie de ejercicios se practican las estrucuturas de control de flujo if-else y switch. El objetivo es fortalecer el uso de la lógica en la toma de decisiones en un programa Java.
+[TareaEstructurasControl](./JAVA/TareaEstructurasControl/)
 
 
 
