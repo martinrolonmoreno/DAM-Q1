@@ -58,6 +58,32 @@ This collection of exercises provides hands-on practice with:
 
 [TareaEstructurasControl2](./JAVA/TareaEstructurasControl2/)
 
+### TareaMetodos
+
+This repository is a collection of Java exercises focused on practicing fundamental programming concepts. The exercises emphasize the creation and use of methods, along with the implementation of control structures (loops and conditionals) and recursion.
+
+This collection of exercises provides hands-on practice with:
+
+- Methods: Defining and calling static methods with parameters and return values.
+
+- Control Structures:
+
+   - Conditionals: if, else if, and else statements.
+
+   - switch Statement: For multi-branch menu logic.
+
+   - Loops: for (fixed iteration), do-while (menu loops, input validation), and nested for loops.
+
+- Recursion: Understanding base cases and recursive calls as an alternative to iteration (see Potencia.java and PotenciaNumero.java).
+
+- User Input: Reading different data types from the console using java.util.Scanner.
+
+- Input Validation: Using loops to ensure user input is valid (e.g., non-negative numbers).
+
+- Arrays: Basic use of an array for data lookup (e.g., month names).
+
+[TareaMetodos](./JAVA/TareaMetodos/)
+
 ------------
 
 # Proyectos JAVA - DAM Q1
