@@ -56,7 +56,7 @@ This collection of exercises provides hands-on practice with:
 
 - Input Validation: Using loops to ensure user input is valid (e.g., positive numbers).
 
-[TareaEstructurasControl2](./JAVA/TareaEstructurasControl2/)
+[TareaEstructurasControl2](TareaEstructurasControl2/)
 
 ### TareaMetodos
 
