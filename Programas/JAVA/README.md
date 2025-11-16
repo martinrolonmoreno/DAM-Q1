@@ -33,7 +33,7 @@ In this exercise we learned how to use the modulo operator to convert a given nu
 
 ### TareaEstructurasControl
 In this set of exercises, flow-control structures are practised through conditional such as if-else and switch statements.
-The goal is to strengthen understanding of decision-making logic in Java. [TareaEstructurasControl](./JAVA/TareaEstructurasControl/)
+The goal is to strengthen understanding of decision-making logic in Java. [TareaEstructurasControl](TareaEstructurasControl/)
 
 ### TareaEstructurasControl2
 This repository contains a collection of basic Java exercises designed to practice fundamental programming concepts. The primary focus of these exercises is to understand and implement control structures, including conditional statements (if, else) and various loops (for, while, do-while). Each .java file represents a separate, self-contained problem.
@@ -82,7 +82,7 @@ This collection of exercises provides hands-on practice with:
 
 - Arrays: Basic use of an array for data lookup (e.g., month names).
 
-[TareaMetodos](./JAVA/TareaMetodos/)
+[TareaMetodos](TareaMetodos/)
 
 ------------
 
