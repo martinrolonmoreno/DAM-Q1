@@ -122,8 +122,54 @@ En este ejercicio aprendimos a usar el operador de módulo para convertir una ci
 En esta serie de ejercicios se practican las estrucuturas de control de flujo if-else y switch. El objetivo es fortalecer el uso de la lógica en la toma de decisiones en un programa Java.
 [TareaEstructurasControl](./JAVA/TareaEstructurasControl/)
 
+### TareaEstructurasControl2
 
+Este repositorio contiene una colección de ejercicios básicos en Java diseñados para practicar conceptos fundamentales de programación. El objetivo principal de estos ejercicios es comprender e implementar estructuras de control, incluyendo sentencias condicionales (if, else) y diversos tipos de bucles (for, while, do-while). Cada archivo .java representa un problema independiente y autónomo.
 
+Esta colección de ejercicios ofrece práctica directa en:
 
+ - Sentencias Condicionales: Uso de if, else if y else para la toma de decisiones.
+
+ - Bucles:
+
+   - Bucles for: Para iterar un número conocido de veces.
+
+   - Bucles while: Para iterar mientras una condición sea verdadera (prueba previa).
+
+   - Bucles do-while: Para iterar al menos una vez y luego comprobar una condición (prueba posterior).
+
+- Entrada de Usuario: Lectura de distintos tipos de datos (int, double, float) desde la consola utilizando java.util.Scanner.
+
+- Operaciones Básicas: Uso de operadores aritméticos (+, -, *, /, %) y relacionales (==, >, <, >=, <=).
+
+- Validación de Entrada: Implementación de bucles para garantizar que los datos ingresados por el usuario sean válidos (por ejemplo, números positivos).
+
+[TareaEstructurasControl2](TareaEstructurasControl2/)
+
+### TareaMetodos
+
+Este repositorio es una colección de ejercicios en Java orientados a practicar conceptos fundamentales de programación. Los ejercicios enfatizan la creación y el uso de métodos, junto con la implementación de estructuras de control (bucles y condicionales) y recursividad.
+
+Esta colección de ejercicios ofrece práctica directa en:
+
+- Métodos: Definición y llamada de métodos estáticos con parámetros y valores de retorno.
+
+- Estructuras de Control:
+
+   - Condicionales: Sentencias if, else if y else.
+
+   - Sentencia switch: Para lógica de menú con múltiples alternativas.
+
+   - Bucles: for (iteración fija), do-while (menús, validación de entradas) y bucles for anidados.
+
+- Recursividad: Comprensión de casos base y llamadas recursivas como alternativa a la iteración (véase Potencia.java y PotenciaNumero.java).
+
+- Entrada de Usuario: Lectura de distintos tipos de datos desde la consola mediante java.util.Scanner.
+
+- Validación de Entrada: Uso de bucles para asegurar que la información ingresada por el usuario sea válida (por ejemplo, números no negativos).
+
+- Arrays: Uso básico de un arrayspara búsqueda de datos (por ejemplo, nombres de meses).
+
+[TareaMetodos](TareaMetodos/)
 
 
