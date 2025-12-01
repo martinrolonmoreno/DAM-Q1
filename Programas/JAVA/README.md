@@ -84,6 +84,35 @@ This collection of exercises provides hands-on practice with:
 
 [TareaMetodos](TareaMetodos/)
 
+### TareaMetodos2
+
+This repository contains a collection of Java programs developed as part of an exercise set focused on using methods, control flow statements (if/else, while, for), and user input (Scanner).
+
+These exercises provided practical experience in several core Java programming areas:
+
+- Method Implementation and Decomposition
+  - Modular Programming: Creating dedicated methods (esMultiploDe3, potencia, esPerfecto, factorial) to perform single, focused tasks. This makes the code reusable, cleaner, and easier to debug.
+
+  - Method Signatures: Practice defining methods with different return types (int, boolean, String) and parameters.
+
+- Control Flow and Iteration
+  - Loops (for, while): Mastering iterative tasks, such as calculating power (BuclePotencia.java), finding divisors (Perfecto.java), and iterating through number ranges (SerieNumeros.java, Tabla.java).
+
+  - Conditional Statements (if/else): Implementing complex decision logic, such as checking time ranges (SaludoDinamico.java) or multiple divisibility conditions (SerieNumeros.java).
+
+- Mathematical Operations
+  - Modulus Operator (%): Extensive use of the modulus operator to determine divisibility, which is crucial for exercises like multiples checking and finding divisors.
+
+  - Recursion: Implementing the factorial calculation recursively (ValoracionFactorial.java) as an alternative to an iterative loop.
+
+- Input Handling and Error Checking
+  - User Input: Utilizing the Scanner class to read and process user-provided integer inputs.
+
+  - Input Validation: Implementing basic while loops to ensure user input (like hour or day of the week) falls within acceptable ranges (SaludoDinamico.java).
+
+[TareaMetodos2](TareaMetodos2/)
+
+
 ------------
 
 # Proyectos JAVA - DAM Q1
