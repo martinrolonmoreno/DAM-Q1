@@ -113,6 +113,8 @@ These exercises provided practical experience in several core Java programming a
 [TareaMetodos2](TareaMetodos2/)
 
 
+
+
 ------------
 
 # Proyectos JAVA - DAM Q1
@@ -201,4 +203,31 @@ Esta colección de ejercicios ofrece práctica directa en:
 
 [TareaMetodos](TareaMetodos/)
 
+### TareaMetodos2
+
+Este repositorio contiene una colección de programas Java desarrollados como parte de un conjunto de ejercicios centrado en el uso de métodos, sentencias de control de flujo (if/else, while, for) y entrada de usuario (Scanner).
+
+Estos ejercicios proporcionaron experiencia práctica en varias áreas centrales de la programación en Java:
+
+- Implementación y Descomposición de Métodos
+  - Programación Modular: Creación de métodos dedicados (esMultiploDe3, potencia, esPerfecto, factorial) para realizar tareas únicas y enfocadas. Esto hace que el código sea reutilizable, más limpio y fácil de depurar.
+
+  - Métodos: Práctica en la definición de métodos con diferentes tipos de retorno (int, boolean, String) y parámetros.
+
+- Control de Flujo e Iteración
+  - Bucles (for, while): Dominio de tareas iterativas, como calcular la potencia (BuclePotencia.java), encontrar divisores (Perfecto.java) e iterar a través de rangos de números (SerieNumeros.java, Tabla.java).
+
+  - Sentencias Condicionales (if/else): Implementación de lógica de decisión compleja, como la comprobación de rangos de tiempo (SaludoDinamico.java) o múltiples condiciones de divisibilidad (SerieNumeros.java).
+
+- Operaciones Matemáticas
+  - Operador Módulo (%): Uso extensivo del operador módulo para determinar la divisibilidad, crucial para ejercicios como la comprobación de múltiplos y la búsqueda de divisores.
+
+  - Recursividad: Implementación del cálculo factorial de forma recursiva (ValoracionFactorial.java) como alternativa a un bucle iterativo.
+
+- Manejo de Entrada y Verificación de Errores
+  - Entrada de Usuario: Utilización de la clase Scanner para leer y procesar las entradas de números enteros proporcionadas por el usuario.
+
+  - Validación de Entrada: Implementación de bucles while básicos para asegurar que la entrada del usuario (como la hora o el día de la semana) se encuentre dentro de rangos aceptables (SaludoDinamico.java).
+
+[TareaMetodos2](TareaMetodos2/)
 
