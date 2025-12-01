@@ -113,6 +113,37 @@ These exercises provided practical experience in several core Java programming a
 [TareaMetodos2](TareaMetodos2/)
 
 
+### TareasPOO
+
+This set of Java files focuses on Object-Oriented Programming (OOP) principles, specifically defining classes, using constructors, encapsulation (Getters/Setters), and handling exceptions.
+
+These exercises provide practical mastery over several core Java and OOP principles:
+
+- Object-Oriented Programming (OOP)
+  - Class and Object Definition: Correctly defining classes and instantiating objects with custom constructors.
+
+  - Encapsulation: Implementing the Getter and Setter pattern to control access and modify object attributes, often including internal validation (e.g., in Coche.java).
+
+  - Static Members: Using static variables (numeroObjetos) to track class-level information (the total number of objects created for a class).
+
+- Exception Handling
+  - Throwing Exceptions: Implementing methods that explicitly throw exceptions for invalid operations (e.g., TrianguloEquilatero.calcularAreaTres() throws an ArithmeticException if division by zero is attempted).
+
+  - Catching Exceptions: Safely handling both expected (ArithmeticException in Principal.java) and unexpected/user input errors (InputMismatchException in Principal.leerBien()).
+
+- Unit Testing (JUnit 5)
+  - Test Lifecycle: Using JUnit annotations (@BeforeAll, @AfterEach, etc.) to set up and tear down testing environments.
+
+  - Testing Methods: Writing focused tests to check method results (comprobarArea, comprobarPerimetro) and expected exceptions (comprobarExcepcion0).
+
+- Application Structure
+  - Modular Design: Separating core logic into dedicated classes (Coche, Consumo) and placing interaction/instantiation logic in Principal classes.
+
+  - Input Validation: Robustly checking user input to prevent runtime errors and ensure valid data for object creation.
+
+[TareasPOO](TareasPOO/)
+
+
 
 
 ------------
