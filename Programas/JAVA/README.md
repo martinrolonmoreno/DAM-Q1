@@ -262,3 +262,36 @@ Estos ejercicios proporcionaron experiencia práctica en varias áreas centrales
 
 [TareaMetodos2](TareaMetodos2/)
 
+
+### TareasPOO
+
+Este repositorio contiene un conjunto de ejercicios de Java centrados en la Programación Orientada a Objetos (POO). El trabajo abarca la definición e implementación de clases, encapsulación, miembros estáticos, manejo de excepciones y pruebas unitarias con JUnit.
+
+Estos ejercicios proporcionan un dominio práctico sobre varios principios fundamentales de Java y la POO:
+
+- Programación Orientada a Objetos (POO)
+  - Definición de Clases y Objetos: Correcta definición de clases e instanciación de objetos con constructores personalizados.
+
+  - Encapsulación: Implementación del patrón Getter y Setter para controlar el acceso y modificar los atributos del objeto.
+
+  - elementos estáticos: Uso de variables estáticas (numeroObjetos) para rastrear información a nivel de clase (el número total de objetos creados para una clase).
+
+- Manejo de Excepciones
+  - Lanzamiento de Excepciones: Implementación de métodos que lanzan explícitamente excepciones para operaciones no válidas (por ejemplo, TrianguloEquilatero.calcularAreaTres() lanza una ArithmeticException si se intenta la división por cero).
+
+  - Captura de Excepciones: Manejo seguro de errores como InputMismatchException y ArithmeticException en el código principal.
+
+- Pruebas Unitarias (JUnit 5)
+  - Test Fixtures: Uso de anotaciones de JUnit (@BeforeAll, @AfterEach, etc.) para configurar el entorno de prueba.
+
+  - Prueba de Métodos: Escritura de pruebas para verificar resultados y excepciones esperadas (assertThrows).
+
+[TareasPOO](TareasPOO/)
+
+
+
+
+
+
+
+
